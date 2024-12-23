@@ -1,7 +1,7 @@
 
 
 Temas:
-
+  Link para o video: https://youtu.be/-pUAqK8PErA
 # NomedoProjeto
 
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
