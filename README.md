@@ -1,7 +1,7 @@
 
 
 Temas:
- - Grafos1 - link do video : https://youtu.be/kcqbPOxuUAs
+
 # NomedoProjeto
 
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
